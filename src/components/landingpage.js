@@ -20,6 +20,17 @@ class Landing extends Component {
                             <p>HTML/CSS | Bootstrap | JavaScript | React | React Native | NodeJS | Express | MongoDB</p>
 
                             <div className="social-links">
+                                {/* linkedin */}
+
+                                <a href="https://www.linkedin.com/in/komatineni-hemalatha-628b2995/" rel="noopener noreferrer" target="_blank">
+                                    <i className="fa fa-linkedin-square" aria-hidden="true" />
+                                </a>
+
+                                {/* Github */}
+                                <a href="https://github.com/hema0618" rel="noopener noreferrer" target="_blank">
+                                    <i className="fa fa-github-square" aria-hidden="true" />
+                                </a>
+
 
 
                             </div>
