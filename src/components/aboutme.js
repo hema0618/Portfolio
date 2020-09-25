@@ -21,7 +21,7 @@ class About extends Component {
                     <Cell col={6}>
             <p> Originally from India,Learning to be full stack developer through Rutgers bootcamp. I have
           bachelors degree in computer science and still working my way up in coding. I am still young and
-          learning the industry. Always on a lookout for new and exciting design challenges.Please</p>
+          learning the industry. Always on a lookout for new and exciting design challenges.You can checkout my work</p>
             
 
           <Button colored><a href="https://github.com/hema0618" rel="noopener noreferrer" target="_blank">

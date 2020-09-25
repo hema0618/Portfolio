@@ -25,6 +25,10 @@ class Projects extends Component {
               <Button colored><a href="https://github.com/hema0618/Employee-directory" rel="noopener noreferrer" target="_blank">
                                     <i className="fa fa-github-square" aria-hidden="true" />
                                 </a></Button>
+                               <Button colored ><a href="https://www.linkedin.com/in/komatineni-hemalatha-628b2995/" rel="noopener noreferrer" target="_blank">
+                                    <i className="fa fa-linkedin-square" aria-hidden="true" />
+                                </a></Button>
+
               </CardActions>
             </Card>
          </div>
@@ -49,6 +53,9 @@ class Projects extends Component {
             <CardActions border>
               <Button colored><a href="https://github.com/hema0618/Books-by-You" rel="noopener noreferrer" target="_blank">
                                     <i className="fa fa-github-square" aria-hidden="true" />
+                                </a></Button>
+                                <Button colored ><a href="https://www.linkedin.com/in/komatineni-hemalatha-628b2995/" rel="noopener noreferrer" target="_blank">
+                                    <i className="fa fa-linkedin-square" aria-hidden="true" />
                                 </a></Button>
               </CardActions>
             <CardMenu style={{color: '#fff'}}>
@@ -76,6 +83,9 @@ class Projects extends Component {
               <Button colored><a href="https://github.com/hema0618/weather-Dashboard" rel="noopener noreferrer" target="_blank">
                                     <i className="fa fa-github-square" aria-hidden="true" />
                                 </a></Button>
+                                <Button colored ><a href="https://www.linkedin.com/in/komatineni-hemalatha-628b2995/" rel="noopener noreferrer" target="_blank">
+                                    <i className="fa fa-linkedin-square" aria-hidden="true" />
+                                </a></Button>
               </CardActions>
             <CardMenu style={{color: '#fff'}}>
               <IconButton name="share" />
@@ -102,6 +112,9 @@ This app can work offline on desktop, tablet and mobile.
             <CardActions border>
               <Button colored><a href="https://github.com/hema0618/Save-a-Toonie" rel="noopener noreferrer" target="_blank">
                                     <i className="fa fa-github-square" aria-hidden="true" />
+                                </a></Button>
+                                <Button colored ><a href="https://www.linkedin.com/in/komatineni-hemalatha-628b2995/" rel="noopener noreferrer" target="_blank">
+                                    <i className="fa fa-linkedin-square" aria-hidden="true" />
                                 </a></Button>
               </CardActions>
             <CardMenu style={{color: '#fff'}}>
